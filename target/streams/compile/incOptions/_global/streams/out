@@ -1,0 +1,68 @@
+[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = /Users/tatistudios/IdeaProjects/vortex-core/vortex-mvp/target/scala-3.3.1/classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = /Users/tatistudios/IdeaProjects/vortex-core/vortex-mvp/target/scala-3.3.1/classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mRegistering generated classes:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Domain$ProcessTelemetry$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Domain$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Spatial.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Engine$DroneActor$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Domain$CollisionAlert.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Simulation.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Api$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Domain$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Engine$AirspaceLedger$State$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Engine$AirspaceLedger$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Engine$AirspaceLedger$State.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Domain$CollisionAlert$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Engine.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Domain$LedgerCommand.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Domain$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Domain$DroneSnapshot.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Domain$DroneCommand.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Domain$GetSnapshot.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Domain$Vector3D.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Spatial$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Domain$ProcessTelemetry.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Domain$GetSnapshot$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Domain$DroneSnapshot$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Engine$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Domain$Vector3D$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Api$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Simulation$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Domain$Tick$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Domain.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Api.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Domain$ProcessTelemetry$.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Domain$$anon$1.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Spatial.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Engine$DroneActor$.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Domain$CollisionAlert.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Simulation.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Api$.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Domain$$anon$2.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Engine$AirspaceLedger$State$.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Engine$AirspaceLedger$.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Engine$AirspaceLedger$State.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Domain$CollisionAlert$.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Engine.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Domain$LedgerCommand.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Domain$.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Domain$DroneSnapshot.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Domain$DroneCommand.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Domain$GetSnapshot.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Domain$Vector3D.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Spatial$.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Domain$ProcessTelemetry.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Domain$GetSnapshot$.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Domain$DroneSnapshot$.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Engine$.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Domain$Vector3D$.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Api$$anon$1.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Simulation$.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Domain$Tick$.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Domain.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Api.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0mRemoving the temporary directory used for backing up class files: /Users/tatistudios/IdeaProjects/vortex-core/vortex-mvp/target/scala-3.3.1/classes.bak[0m
